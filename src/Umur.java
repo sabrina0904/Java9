@@ -18,6 +18,8 @@ public class Umur {
     
      System.out.print("Masukan umur anda :");
      umur =input.nextInt();
+     System.out.print("Masukan umur anda :");
+     umur =input.nextInt();
      
     
      
